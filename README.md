@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#192](https://github.com/AlexisL61/JackboxUtility/issues/192) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-2. 🔒 Closed issue [#189](https://github.com/AlexisL61/JackboxUtility/issues/189) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-3. 🔒 Closed issue [#126](https://github.com/AlexisL61/JackboxUtility/issues/126) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-4. 🔒 Closed issue [#185](https://github.com/AlexisL61/JackboxUtility/issues/185) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-5. 🔒 Closed issue [#183](https://github.com/AlexisL61/JackboxUtility/issues/183) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+1. 🔒 Closed issue [#190](https://github.com/AlexisL61/JackboxUtility/issues/190) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+2. ❗ Opened issue [#193](https://github.com/AlexisL61/JackboxUtility/issues/193) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+3. 🔒 Closed issue [#192](https://github.com/AlexisL61/JackboxUtility/issues/192) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+4. 🔒 Closed issue [#189](https://github.com/AlexisL61/JackboxUtility/issues/189) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+5. 🔒 Closed issue [#126](https://github.com/AlexisL61/JackboxUtility/issues/126) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
 <!--END_SECTION:activity-->
