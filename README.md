@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#215](https://github.com/AlexisL61/JackboxUtility/pull/215) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-2. 🎉 Merged PR [#211](https://github.com/AlexisL61/JackboxUtility/pull/211) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-3. 🔒 Closed issue [#209](https://github.com/AlexisL61/JackboxUtility/issues/209) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-4. 🔒 Closed issue [#210](https://github.com/AlexisL61/JackboxUtility/issues/210) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-5. 🗣 Commented on [#200](https://github.com/AlexisL61/JackboxUtility/issues/200) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+1. 🗣 Commented on [#876](https://github.com/bdlukaa/fluent_ui/issues/876) in [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui)
+2. 🎉 Merged PR [#216](https://github.com/AlexisL61/JackboxUtility/pull/216) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+3. 🗣 Commented on [#217](https://github.com/AlexisL61/JackboxUtility/issues/217) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+4. ❗ Opened issue [#876](https://github.com/bdlukaa/fluent_ui/issues/876) in [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui)
+5. 🎉 Merged PR [#215](https://github.com/AlexisL61/JackboxUtility/pull/215) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
 <!--END_SECTION:activity-->
