@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#259](https://github.com/AlexisL61/JackboxUtility/issues/259) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-2. 🎉 Merged PR [#258](https://github.com/AlexisL61/JackboxUtility/pull/258) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-3. 💪 Opened PR [#600](https://github.com/redis-developer/redis-developer.github.io/pull/600) in [redis-developer/redis-developer.github.io](https://github.com/redis-developer/redis-developer.github.io)
-4. 🗣 Commented on [#255](https://github.com/AlexisL61/JackboxUtility/issues/255) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-5. 🎉 Merged PR [#253](https://github.com/AlexisL61/JackboxUtility/pull/253) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+1. 🎉 Merged PR [#260](https://github.com/AlexisL61/JackboxUtility/pull/260) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+2. 💪 Opened PR [#260](https://github.com/AlexisL61/JackboxUtility/pull/260) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+3. ❗ Opened issue [#259](https://github.com/AlexisL61/JackboxUtility/issues/259) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+4. 🎉 Merged PR [#258](https://github.com/AlexisL61/JackboxUtility/pull/258) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+5. 💪 Opened PR [#600](https://github.com/redis-developer/redis-developer.github.io/pull/600) in [redis-developer/redis-developer.github.io](https://github.com/redis-developer/redis-developer.github.io)
 <!--END_SECTION:activity-->
