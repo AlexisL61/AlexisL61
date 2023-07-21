@@ -12,6 +12,7 @@
 
 <p><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexisl61&show_icons=true&theme=dark&locale=en&layout=compact" alt="alexisl61" /></p>
 <p><img align="center" height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=alexisl61&theme=dark" alt="alexisl61" /></p>
+<p><img height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexisL&api_domain=wakapi.alexisl.fr&bg_color=1A202C&title_color=FFFFFF&icon_color=2F855A&text_color=ffffff&custom_title=Languages%20used%20last%20week&layout=compact"></p>
 </br>
 
 <h3>Recent activities:</h3>
