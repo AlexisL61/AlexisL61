@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-3-French/pull/1) in [Jackbox-France/The-Jackbox-Party-Pack-3-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-3-French)
-2. 💪 Opened PR [#1](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/1) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-3. 🗣 Commented on [#248](https://github.com/AlexisL61/JackboxUtility/issues/248#issuecomment-1671415993) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-4. 🎉 Merged PR [#307](https://github.com/AlexisL61/JackboxUtility/pull/307) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-5. 🎉 Merged PR [#302](https://github.com/AlexisL61/JackboxUtility/pull/302) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+1. ❌ Closed PR [#1](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-3-French/pull/1) in [Jackbox-France/The-Jackbox-Party-Pack-3-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-3-French)
+2. 💪 Opened PR [#1](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-3-French/pull/1) in [Jackbox-France/The-Jackbox-Party-Pack-3-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-3-French)
+3. 💪 Opened PR [#1](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/1) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+4. 🗣 Commented on [#248](https://github.com/AlexisL61/JackboxUtility/issues/248#issuecomment-1671415993) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+5. 🎉 Merged PR [#307](https://github.com/AlexisL61/JackboxUtility/pull/307) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
 <!--END_SECTION:activity-->
