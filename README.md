@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French/pull/2) in [Jackbox-France/The-Jackbox-Party-Pack-5-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French)
-2. 💪 Opened PR [#2](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French/pull/2) in [Jackbox-France/The-Jackbox-Party-Pack-5-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French)
-3. 🎉 Merged PR [#1](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French/pull/1) in [Jackbox-France/The-Jackbox-Party-Pack-5-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French)
-4. 💪 Opened PR [#1](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French/pull/1) in [Jackbox-France/The-Jackbox-Party-Pack-5-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French)
-5. 🎉 Merged PR [#320](https://github.com/AlexisL61/JackboxUtility/pull/320) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+1. 🎉 Merged PR [#2](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-3-French/pull/2) in [Jackbox-France/The-Jackbox-Party-Pack-3-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-3-French)
+2. 💪 Opened PR [#2](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-3-French/pull/2) in [Jackbox-France/The-Jackbox-Party-Pack-3-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-3-French)
+3. 🎉 Merged PR [#2](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French/pull/2) in [Jackbox-France/The-Jackbox-Party-Pack-5-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French)
+4. 💪 Opened PR [#2](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French/pull/2) in [Jackbox-France/The-Jackbox-Party-Pack-5-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French)
+5. 🎉 Merged PR [#1](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French/pull/1) in [Jackbox-France/The-Jackbox-Party-Pack-5-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French)
 <!--END_SECTION:activity-->
