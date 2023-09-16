@@ -19,7 +19,7 @@
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#324](https://github.com/AlexisL61/JackboxUtility/issues/324) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
 2. 🔒 Closed issue [#286](https://github.com/AlexisL61/JackboxUtility/issues/286) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-3. 🔒 Reopened issue [#317](https://github.com/AlexisL61/JackboxUtility/issues/317) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+3. 🔓 Reopened issue [#317](https://github.com/AlexisL61/JackboxUtility/issues/317) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
 4. 🔒 Closed issue [#317](https://github.com/AlexisL61/JackboxUtility/issues/317) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
 5. 🎉 Merged PR [#325](https://github.com/AlexisL61/JackboxUtility/pull/325) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
 <!--END_SECTION:activity-->
