@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2167](https://github.com/fluttercommunity/plus_plugins/issues/2167#issuecomment-1752762819) in [fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
-2. 🎉 Merged PR [#329](https://github.com/AlexisL61/JackboxUtility/pull/329) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-3. 🎉 Merged PR [#5](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/5) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-4. 💪 Opened PR [#5](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/5) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-5. 🎉 Merged PR [#4](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/4) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+1. 🔓 Reopened issue [#264](https://github.com/AlexisL61/JackboxUtility/issues/264) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+2. 🔒 Closed issue [#264](https://github.com/AlexisL61/JackboxUtility/issues/264) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+3. 🎉 Merged PR [#330](https://github.com/AlexisL61/JackboxUtility/pull/330) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+4. 💪 Opened PR [#330](https://github.com/AlexisL61/JackboxUtility/pull/330) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+5. 🗣 Commented on [#2167](https://github.com/fluttercommunity/plus_plugins/issues/2167#issuecomment-1752762819) in [fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
 <!--END_SECTION:activity-->
