@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#348](https://github.com/AlexisL61/JackboxUtility/pull/348) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-2. 🚀 Published release [1.3.5+1](https://github.com/AlexisL61/JackboxUtility/releases/tag/1.3.5%2B1) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-3. 🔒 Closed issue [#3](https://github.com/AlexisL61/JackboxUtility-Server-fr/issues/3) in [AlexisL61/JackboxUtility-Server-fr](https://github.com/AlexisL61/JackboxUtility-Server-fr)
-4. 🎉 Merged PR [#346](https://github.com/AlexisL61/JackboxUtility/pull/346) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
-5. 🎉 Merged PR [#345](https://github.com/AlexisL61/JackboxUtility/pull/345) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+1. 🎉 Merged PR [#350](https://github.com/AlexisL61/JackboxUtility/pull/350) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+2. 🎉 Merged PR [#348](https://github.com/AlexisL61/JackboxUtility/pull/348) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+3. 🚀 Published release [1.3.5+1](https://github.com/AlexisL61/JackboxUtility/releases/tag/1.3.5%2B1) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
+4. 🔒 Closed issue [#3](https://github.com/AlexisL61/JackboxUtility-Server-fr/issues/3) in [AlexisL61/JackboxUtility-Server-fr](https://github.com/AlexisL61/JackboxUtility-Server-fr)
+5. 🎉 Merged PR [#346](https://github.com/AlexisL61/JackboxUtility/pull/346) in [AlexisL61/JackboxUtility](https://github.com/AlexisL61/JackboxUtility)
 <!--END_SECTION:activity-->
