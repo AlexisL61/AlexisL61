@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/7) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-2. 💪 Opened PR [#7](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/7) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-3. 🗣 Commented on [#255](https://github.com/JackboxUtility/JackboxUtility/issues/255#issuecomment-1822674804) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-4. 🎉 Merged PR [#361](https://github.com/JackboxUtility/JackboxUtility/pull/361) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-5. 💪 Opened PR [#361](https://github.com/JackboxUtility/JackboxUtility/pull/361) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+1. 🎉 Merged PR [#8](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/8) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+2. 💪 Opened PR [#8](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/8) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+3. 🎉 Merged PR [#7](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/7) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+4. 💪 Opened PR [#7](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/7) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+5. 🗣 Commented on [#255](https://github.com/JackboxUtility/JackboxUtility/issues/255#issuecomment-1822674804) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
 <!--END_SECTION:activity-->
