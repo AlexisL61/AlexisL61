@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/9) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-2. 💪 Opened PR [#9](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/9) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-3. 🎉 Merged PR [#8](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/8) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-4. 💪 Opened PR [#8](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/8) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-5. 🎉 Merged PR [#7](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/7) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+1. 🗣 Commented on [#337](https://github.com/JackboxUtility/JackboxUtility/pull/337#issuecomment-1827900562) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+2. 🎉 Merged PR [#9](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/9) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+3. 💪 Opened PR [#9](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/9) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+4. 🎉 Merged PR [#8](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/8) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+5. 💪 Opened PR [#8](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/8) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
 <!--END_SECTION:activity-->
