@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/AlexisL61/BuzzIt/issues/1) in [AlexisL61/BuzzIt](https://github.com/AlexisL61/BuzzIt)
-2. 🎉 Merged PR [#10](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/10) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-3. 💪 Opened PR [#10](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/10) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-4. 🗣 Commented on [#337](https://github.com/JackboxUtility/JackboxUtility/pull/337#issuecomment-1827900562) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-5. 🎉 Merged PR [#9](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/9) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+1. 🗣 Commented on [#1](https://github.com/Milan144/Campus-Quest/issues/1#issuecomment-1889094628) in [Milan144/Campus-Quest](https://github.com/Milan144/Campus-Quest)
+2. ❗ Opened issue [#1](https://github.com/AlexisL61/BuzzIt/issues/1) in [AlexisL61/BuzzIt](https://github.com/AlexisL61/BuzzIt)
+3. 🎉 Merged PR [#10](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/10) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+4. 💪 Opened PR [#10](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/10) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+5. 🗣 Commented on [#337](https://github.com/JackboxUtility/JackboxUtility/pull/337#issuecomment-1827900562) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
 <!--END_SECTION:activity-->
