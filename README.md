@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/11) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-2. ❗ Opened issue [#1](https://github.com/AlexisL61/BuzzIt/issues/1) in [AlexisL61/BuzzIt](https://github.com/AlexisL61/BuzzIt)
-3. 🎉 Merged PR [#10](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/10) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-4. 💪 Opened PR [#10](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/10) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-5. 🗣 Commented on [#337](https://github.com/JackboxUtility/JackboxUtility/pull/337#issuecomment-1827900562) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+1. 🎉 Merged PR [#12](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/12) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+2. 🎉 Merged PR [#11](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/11) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+3. ❗ Opened issue [#1](https://github.com/AlexisL61/BuzzIt/issues/1) in [AlexisL61/BuzzIt](https://github.com/AlexisL61/BuzzIt)
+4. 🎉 Merged PR [#10](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/10) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+5. 💪 Opened PR [#10](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/10) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
 <!--END_SECTION:activity-->
