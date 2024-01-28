@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#18](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/18) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-2. ❗ Opened issue [#19](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/19) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-3. ❗ Opened issue [#18](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/18) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-4. 🎉 Merged PR [#3](https://github.com/jackbox-int/jackbox-fr/pull/3) in [jackbox-int/jackbox-fr](https://github.com/jackbox-int/jackbox-fr)
-5. 💪 Opened PR [#3](https://github.com/jackbox-int/jackbox-fr/pull/3) in [jackbox-int/jackbox-fr](https://github.com/jackbox-int/jackbox-fr)
+1. 🎉 Merged PR [#20](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/20) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+2. 💪 Opened PR [#20](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/20) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+3. 🔒 Closed issue [#19](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/19) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+4. 🔒 Closed issue [#18](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/18) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+5. ❗ Opened issue [#19](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/19) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
 <!--END_SECTION:activity-->
