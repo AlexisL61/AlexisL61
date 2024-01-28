@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/17) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-2. 💪 Opened PR [#17](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/17) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-3. 🎉 Merged PR [#16](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/16) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-4. 🎉 Merged PR [#1](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French/pull/1) in [Jackbox-France/The-Jackbox-Party-Pack-2-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French)
-5. 💪 Opened PR [#1](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French/pull/1) in [Jackbox-France/The-Jackbox-Party-Pack-2-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French)
+1. ❗ Opened issue [#18](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/18) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+2. 🎉 Merged PR [#3](https://github.com/jackbox-int/jackbox-fr/pull/3) in [jackbox-int/jackbox-fr](https://github.com/jackbox-int/jackbox-fr)
+3. 💪 Opened PR [#3](https://github.com/jackbox-int/jackbox-fr/pull/3) in [jackbox-int/jackbox-fr](https://github.com/jackbox-int/jackbox-fr)
+4. 🎉 Merged PR [#17](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/17) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+5. 💪 Opened PR [#17](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/17) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
 <!--END_SECTION:activity-->
