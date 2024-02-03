@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-6-French/issues/1) in [Jackbox-France/The-Jackbox-Party-Pack-6-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-6-French)
-2. 🎉 Merged PR [#4](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/pull/4) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
-3. 💪 Opened PR [#4](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/pull/4) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
-4. 🔒 Closed issue [#3](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/issues/3) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
-5. 🔒 Closed issue [#2](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/issues/2) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
+1. ❗ Opened issue [#21](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/21) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+2. ❗ Opened issue [#1](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-6-French/issues/1) in [Jackbox-France/The-Jackbox-Party-Pack-6-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-6-French)
+3. 🎉 Merged PR [#4](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/pull/4) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
+4. 💪 Opened PR [#4](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/pull/4) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
+5. 🔒 Closed issue [#3](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/issues/3) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
 <!--END_SECTION:activity-->
