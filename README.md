@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#28](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/28) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-2. 🗣 Commented on [#22](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/22#issuecomment-1930513179) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-3. 🔒 Closed issue [#22](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/22) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-4. 🎉 Merged PR [#27](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/27) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-5. 💪 Opened PR [#27](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/27) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+1. 🔒 Closed issue [#28](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/28) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+2. 🎉 Merged PR [#29](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/29) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+3. 💪 Opened PR [#29](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/29) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+4. ❗ Opened issue [#28](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/28) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+5. 🗣 Commented on [#22](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/22#issuecomment-1930513179) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
 <!--END_SECTION:activity-->
