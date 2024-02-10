@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#378](https://github.com/JackboxUtility/JackboxUtility/pull/378) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-2. 💪 Opened PR [#378](https://github.com/JackboxUtility/JackboxUtility/pull/378) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-3. 🔒 Closed issue [#365](https://github.com/JackboxUtility/JackboxUtility/issues/365) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-4. 🔒 Closed issue [#362](https://github.com/JackboxUtility/JackboxUtility/issues/362) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-5. 🎉 Merged PR [#31](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/31) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+1. 🔒 Closed issue [#359](https://github.com/JackboxUtility/JackboxUtility/issues/359) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+2. 🎉 Merged PR [#379](https://github.com/JackboxUtility/JackboxUtility/pull/379) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+3. 💪 Opened PR [#379](https://github.com/JackboxUtility/JackboxUtility/pull/379) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+4. 🎉 Merged PR [#378](https://github.com/JackboxUtility/JackboxUtility/pull/378) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+5. 💪 Opened PR [#378](https://github.com/JackboxUtility/JackboxUtility/pull/378) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
 <!--END_SECTION:activity-->
