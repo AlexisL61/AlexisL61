@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/31) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-2. 🎉 Merged PR [#30](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/30) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-3. 💪 Opened PR [#30](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/30) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-4. 🔒 Closed issue [#28](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/28) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-5. 🎉 Merged PR [#29](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/29) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+1. 🎉 Merged PR [#378](https://github.com/JackboxUtility/JackboxUtility/pull/378) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+2. 💪 Opened PR [#378](https://github.com/JackboxUtility/JackboxUtility/pull/378) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+3. 🔒 Closed issue [#365](https://github.com/JackboxUtility/JackboxUtility/issues/365) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+4. 🔒 Closed issue [#362](https://github.com/JackboxUtility/JackboxUtility/issues/362) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+5. 🎉 Merged PR [#31](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/31) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
 <!--END_SECTION:activity-->
