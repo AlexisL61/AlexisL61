@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French/issues/3) in [Jackbox-France/The-Jackbox-Party-Pack-4-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French)
-2. ❗ Opened issue [#2](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French/issues/2) in [Jackbox-France/The-Jackbox-Party-Pack-4-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French)
-3. ❗ Opened issue [#382](https://github.com/JackboxUtility/JackboxUtility/issues/382) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-4. 🎉 Merged PR [#381](https://github.com/JackboxUtility/JackboxUtility/pull/381) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-5. 💪 Opened PR [#381](https://github.com/JackboxUtility/JackboxUtility/pull/381) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+1. ❗ Opened issue [#7](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French/issues/7) in [Jackbox-France/The-Jackbox-Party-Pack-4-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French)
+2. ❗ Opened issue [#6](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French/issues/6) in [Jackbox-France/The-Jackbox-Party-Pack-4-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French)
+3. ❗ Opened issue [#5](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French/issues/5) in [Jackbox-France/The-Jackbox-Party-Pack-4-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French)
+4. ❗ Opened issue [#4](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French/issues/4) in [Jackbox-France/The-Jackbox-Party-Pack-4-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French)
+5. ❗ Opened issue [#3](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French/issues/3) in [Jackbox-France/The-Jackbox-Party-Pack-4-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French)
 <!--END_SECTION:activity-->
