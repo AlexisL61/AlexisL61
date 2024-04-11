@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#387](https://github.com/JackboxUtility/JackboxUtility/issues/387) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-2. 🗣 Commented on [#386](https://github.com/JackboxUtility/JackboxUtility/issues/386#issuecomment-2041206458) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-3. 🗣 Commented on [#386](https://github.com/JackboxUtility/JackboxUtility/issues/386#issuecomment-2041185180) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-4. ❗ Opened issue [#386](https://github.com/JackboxUtility/JackboxUtility/issues/386) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-5. ❗ Opened issue [#9](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French/issues/9) in [Jackbox-France/The-Jackbox-Party-Pack-4-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French)
+1. 🔒 Closed issue [#383](https://github.com/JackboxUtility/JackboxUtility/issues/383) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+2. 🗣 Commented on [#388](https://github.com/JackboxUtility/JackboxUtility/issues/388#issuecomment-2050507558) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+3. 🔒 Closed issue [#382](https://github.com/JackboxUtility/JackboxUtility/issues/382) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+4. 🔒 Closed issue [#385](https://github.com/JackboxUtility/JackboxUtility/issues/385) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+5. 🔒 Closed issue [#387](https://github.com/JackboxUtility/JackboxUtility/issues/387) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
 <!--END_SECTION:activity-->
