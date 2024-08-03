@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#401](https://github.com/JackboxUtility/JackboxUtility/issues/401#issuecomment-2267086981) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-2. 🔒 Closed issue [#399](https://github.com/JackboxUtility/JackboxUtility/issues/399) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-3. 🗣 Commented on [#401](https://github.com/JackboxUtility/JackboxUtility/issues/401#issuecomment-2267073663) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-4. 🗣 Commented on [#400](https://github.com/JackboxUtility/JackboxUtility/issues/400#issuecomment-2261037099) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-5. 🚀 Published release [116.03-FR](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French/releases/tag/116.03-FR) in [Jackbox-France/The-Jackbox-Party-Pack-4-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French)
+1. 🗣 Commented on [#400](https://github.com/JackboxUtility/JackboxUtility/issues/400#issuecomment-2267088454) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+2. 🗣 Commented on [#401](https://github.com/JackboxUtility/JackboxUtility/issues/401#issuecomment-2267086981) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+3. 🔒 Closed issue [#399](https://github.com/JackboxUtility/JackboxUtility/issues/399) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+4. 🗣 Commented on [#401](https://github.com/JackboxUtility/JackboxUtility/issues/401#issuecomment-2267073663) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+5. 🗣 Commented on [#400](https://github.com/JackboxUtility/JackboxUtility/issues/400#issuecomment-2261037099) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
 <!--END_SECTION:activity-->
