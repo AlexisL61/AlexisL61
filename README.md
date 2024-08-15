@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#384](https://github.com/JackboxUtility/JackboxUtility/issues/384) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-2. 🔒 Closed issue [#377](https://github.com/JackboxUtility/JackboxUtility/issues/377) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-3. 🗣 Commented on [#406](https://github.com/JackboxUtility/JackboxUtility/issues/406#issuecomment-2286693843) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-4. 🗣 Commented on [#407](https://github.com/JackboxUtility/JackboxUtility/issues/407#issuecomment-2286689211) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-5. 🔒 Closed issue [#407](https://github.com/JackboxUtility/JackboxUtility/issues/407) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+1. 💪 Opened PR [#1](https://github.com/MeDustyy/JackboxUtility-Server-ua/pull/1) in [MeDustyy/JackboxUtility-Server-ua](https://github.com/MeDustyy/JackboxUtility-Server-ua)
+2. 🔒 Closed issue [#384](https://github.com/JackboxUtility/JackboxUtility/issues/384) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+3. 🔒 Closed issue [#377](https://github.com/JackboxUtility/JackboxUtility/issues/377) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+4. 🗣 Commented on [#406](https://github.com/JackboxUtility/JackboxUtility/issues/406#issuecomment-2286693843) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+5. 🗣 Commented on [#407](https://github.com/JackboxUtility/JackboxUtility/issues/407#issuecomment-2286689211) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
 <!--END_SECTION:activity-->
