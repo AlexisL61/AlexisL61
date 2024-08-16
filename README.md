@@ -17,9 +17,9 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#415](https://github.com/JackboxUtility/JackboxUtility/pull/415) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-2. 💪 Opened PR [#415](https://github.com/JackboxUtility/JackboxUtility/pull/415) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-3. 🎉 Merged PR [#414](https://github.com/JackboxUtility/JackboxUtility/pull/414) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-4. 🎉 Merged PR [#2](https://github.com/AlexisL61/SOT_RichPresence/pull/2) in [AlexisL61/SOT_RichPresence](https://github.com/AlexisL61/SOT_RichPresence)
-5. 💪 Opened PR [#2](https://github.com/AlexisL61/SOT_RichPresence/pull/2) in [AlexisL61/SOT_RichPresence](https://github.com/AlexisL61/SOT_RichPresence)
+1. 🎉 Merged PR [#417](https://github.com/JackboxUtility/JackboxUtility/pull/417) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+2. 💪 Opened PR [#417](https://github.com/JackboxUtility/JackboxUtility/pull/417) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+3. 🎉 Merged PR [#416](https://github.com/JackboxUtility/JackboxUtility/pull/416) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+4. 💪 Opened PR [#416](https://github.com/JackboxUtility/JackboxUtility/pull/416) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+5. 🎉 Merged PR [#415](https://github.com/JackboxUtility/JackboxUtility/pull/415) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
 <!--END_SECTION:activity-->
