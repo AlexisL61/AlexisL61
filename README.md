@@ -3,13 +3,14 @@
 <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/projects_title.svg">
 
 <p>
-<img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/jackbox_utility_frame.svg" alt="alexisl61" width="47%" />
+<a href="https://jackboxutility.com/"><img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/jackbox_utility_frame.svg" alt="alexisl61" width="47%" /></a>
 <span width="2%"></span>
-<img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/sot_rpc_frame.svg" alt="alexisl61" width="47%" /></p>
-<p>src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/jackbox_france_frame.svg" alt="alexisl61" />
+<a href="https://github.com/AlexisL61/SOT_RichPresence"><img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/sot_rpc_frame.svg" alt="alexisl61" width="47%" /></a></p>
+<p>
+<a href="https://github.com/Jackbox-France"><img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/jackbox_france_frame.svg" alt="alexisl61" /></a>
 
 <span width="2%"></span>
-<img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/buzz_it_frame.svg" alt="alexisl61" width="47%" /></p>
+<a href="https://github.com/AlexisL61/BuzzIt/"><img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/buzz_it_frame.svg" alt="alexisl61" width="47%" /></a></p>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=alexisl61&label=Profile%20views&color=0e75b6&style=flat" alt="alexisl61"  width="47%"/> </p>
@@ -28,6 +29,7 @@
 <h3>Recent activities:</h3>
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#34](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/34) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
 2. 🎉 Merged PR [#430](https://github.com/JackboxUtility/JackboxUtility/pull/430) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
 3. 🔒 Closed issue [#429](https://github.com/JackboxUtility/JackboxUtility/issues/429) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
