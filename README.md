@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">A French Computer Science Student</h3>
+<img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/profile_title.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexisl61&label=Profile%20views&color=0e75b6&style=flat" alt="alexisl61" /> </p>
 
