@@ -3,13 +3,16 @@
 <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/projects_title.svg">
 
 <p>
-<img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/jackbox_utility_frame.svg" alt="alexisl61" width="49%" />
+<img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/jackbox_utility_frame.svg" alt="alexisl61" width="47%" />
 <span width="2%"></span>
-<img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/sot_rpc_frame.svg" alt="alexisl61" width="49%" /></p>
-<p><img align="left" src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/jackbox_france_frame.svg" alt="alexisl61" /></p>
-<p><img align="center" src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/buzz_it_frame.svg" alt="alexisl61" /></p>
+<img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/sot_rpc_frame.svg" alt="alexisl61" width="47%" /></p>
+<p>src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/jackbox_france_frame.svg" alt="alexisl61" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexisl61&label=Profile%20views&color=0e75b6&style=flat" alt="alexisl61" /> </p>
+<span width="2%"></span>
+<img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/buzz_it_frame.svg" alt="alexisl61" width="47%" /></p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=alexisl61&label=Profile%20views&color=0e75b6&style=flat" alt="alexisl61"  width="47%"/> </p>
 
 - 🔭 I’m currently working on [Jackbox Utility](https://github.com/AlexisL61/JackboxUtility)
 
