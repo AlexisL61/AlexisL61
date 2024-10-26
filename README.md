@@ -4,7 +4,8 @@
 
 <p>
 <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/jackbox_utility_frame.svg" alt="alexisl61" width="49%" />
-<img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/sot_rpc_frame.svg" alt="alexisl61" width="49%" hspace="2%" /></p>
+<p width="2%"></p>
+<img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/sot_rpc_frame.svg" alt="alexisl61" width="49%" /></p>
 <p><img align="left" src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/jackbox_france_frame.svg" alt="alexisl61" /></p>
 <p><img align="center" src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/buzz_it_frame.svg" alt="alexisl61" /></p>
 
