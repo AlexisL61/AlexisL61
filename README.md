@@ -18,14 +18,47 @@
 <h3>Front</h3>
 <p>
     <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/dart-lang-brands-solid.svg" height="40">
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/flutter-brands-solid.svg">
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/Kotlin_Icon.svg">
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/electron.svg">
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/js-brands-solid.svg">
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/ts-brands-solid.svg">
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/html5-brands-solid.svg">
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/css3-alt-brands-solid.svg">
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/vuejs-brands-solid.svg">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/flutter-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/Kotlin_Icon.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/electron.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/js-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/ts-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/html5-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/css3-alt-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/vuejs-brands-solid.svg" height="40">
+</p>
+
+<h3>Back</h3>
+<p>
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/java-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/node-js-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/python-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/php-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/c.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/ISO_C++_Logo.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/scala.svg" height="40">
+</p>
+
+<h3>Database</h3>
+<p>
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/database/Postgresql_elephant.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/mongodb-icon.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/MySQL_textlogo.svg" height="40">
+</p>
+
+<h3>DevOps</h3>
+<p>
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/devops/linux-svg.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/docker-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/github-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/gitlab-brands-solid.svg" height="40">
+</p>
+
+<h3>Tools</h3>
+<p>
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/tools/vscode.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/tools/figma-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/tools/git-alt-brands-solid.svg" height="40">
 </p>
 
 <h2>Stats</h2>
