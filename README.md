@@ -42,16 +42,16 @@
 <h3>Database</h3>
 <p>
     <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/database/Postgresql_elephant.svg" height="40">
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/mongodb-icon.svg" height="40">
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/MySQL_textlogo.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/database/mongodb-icon.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/database/MySQL_textlogo.svg" height="40">
 </p>
 
 <h3>DevOps</h3>
 <p>
     <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/devops/linux-svg.svg" height="40">
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/docker-brands-solid.svg" height="40">
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/github-brands-solid.svg" height="40">
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/back/gitlab-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/devops/docker-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/devops/github-brands-solid.svg" height="40">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/devops/gitlab-brands-solid.svg" height="40">
 </p>
 
 <h3>Tools</h3>
