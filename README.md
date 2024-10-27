@@ -17,7 +17,7 @@
 
 <h3>Front</h3>
 <p>
-    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/dart-lang-brands-solid.svg">
+    <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/dart-lang-brands-solid.svg" height="20">
     <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/flutter-brands-solid.svg">
     <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/Kotlin_Icon.svg">
     <img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/icons/front/electron.svg">
