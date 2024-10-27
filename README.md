@@ -64,12 +64,11 @@
 <h2>Stats</h2>
 
 <p>
-    <img src="https://komarev.com/ghpvc/?username=alexisl61&label=Profile%20views&color=0e75b6&style=flat" alt="alexisl61"/> </p>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alexisl61&show_icons=true&theme=dark&locale=en" alt="alexisl61" /></p>
-    
-    <p><img align="center" height="190"  src="https://github-readme-stats.vercel.app/api/top-langs?username=alexisl61&show_icons=true&theme=dark&locale=en&layout=compact" alt="alexisl61" /></p>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexisL&api_domain=wakapi.alexisl.fr&bg_color=1A202C&title_color=FFFFFF&icon_color=2F855A&text_color=ffffff&custom_title=Languages%20used%20last%20week&layout=compact"></p>
+    <img src="https://komarev.com/ghpvc/?username=alexisl61&label=Profile%20views&color=0e75b6&style=flat" alt="alexisl61"/>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alexisl61&show_icons=true&theme=light&locale=en&bg_color=85bda6&text_color=000000&title_color=235650&icon_color=235650" alt="alexisl61" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexisL&api_domain=wakapi.alexisl.fr&bg_color=85bda6&title_color=235650&icon_color=icon_color=235650&text_color=000000&custom_title=Languages%20used%20last%20week&layout=compact"></p>
 </br>
+</p>
 
 <h2>Recent activities</h2>
 
