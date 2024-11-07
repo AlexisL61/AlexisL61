@@ -74,9 +74,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#35](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/35) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-2. 🎉 Merged PR [#6](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/pull/6) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
-3. 💪 Opened PR [#6](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/pull/6) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
-4. 🎉 Merged PR [#34](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/34) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-5. 🎉 Merged PR [#430](https://github.com/JackboxUtility/JackboxUtility/pull/430) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+1. 🎉 Merged PR [#7](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/pull/7) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
+2. 💪 Opened PR [#7](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/pull/7) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
+3. 🎉 Merged PR [#35](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/35) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+4. 🎉 Merged PR [#6](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/pull/6) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
+5. 💪 Opened PR [#6](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/pull/6) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
 <!--END_SECTION:activity-->
