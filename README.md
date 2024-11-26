@@ -5,7 +5,7 @@
 <p>
     <a href="https://jackboxutility.com/"><img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/jackbox_utility_frame.svg" alt="alexisl61" width="47%" /></a>
     <span width="2%"></span>
-    <a href="https://github.com/AlexisL61/SOT_RichPresence"><img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/sot_rpc_frame.svg" alt="alexisl61" width="47%" /></a>
+    <a href="https://github.com/AlexisL61/SOT_RichPresence"><img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/rpc_express_frame.svg" alt="alexisl61" width="47%" /></a>
 </p>
 <p>
     <a href="https://github.com/Jackbox-France"><img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/jackbox_france_frame.svg" alt="alexisl61" width="47%" /></a>
