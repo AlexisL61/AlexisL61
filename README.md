@@ -74,9 +74,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2993](https://github.com/ente-io/ente/issues/2993#issuecomment-2515599233) in [ente-io/ente](https://github.com/ente-io/ente)
-2. 🎉 Merged PR [#1](https://github.com/AlexisL61/RPC_Express/pull/1) in [AlexisL61/RPC_Express](https://github.com/AlexisL61/RPC_Express)
-3. 💪 Opened PR [#1](https://github.com/AlexisL61/RPC_Express/pull/1) in [AlexisL61/RPC_Express](https://github.com/AlexisL61/RPC_Express)
-4. 🎉 Merged PR [#7](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/pull/7) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
-5. 💪 Opened PR [#7](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/pull/7) in [Jackbox-France/The-Jackbox-Party-Pack-7-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
+1. 🎉 Merged PR [#433](https://github.com/JackboxUtility/JackboxUtility/pull/433) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+2. 🗣 Commented on [#433](https://github.com/JackboxUtility/JackboxUtility/pull/433#issuecomment-2515615998) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+3. 🗣 Commented on [#2993](https://github.com/ente-io/ente/issues/2993#issuecomment-2515599233) in [ente-io/ente](https://github.com/ente-io/ente)
+4. 🎉 Merged PR [#1](https://github.com/AlexisL61/RPC_Express/pull/1) in [AlexisL61/RPC_Express](https://github.com/AlexisL61/RPC_Express)
+5. 💪 Opened PR [#1](https://github.com/AlexisL61/RPC_Express/pull/1) in [AlexisL61/RPC_Express](https://github.com/AlexisL61/RPC_Express)
 <!--END_SECTION:activity-->
