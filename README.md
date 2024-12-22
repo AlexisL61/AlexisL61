@@ -74,9 +74,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/AlexisL61/RPC_Express/pull/2) in [AlexisL61/RPC_Express](https://github.com/AlexisL61/RPC_Express)
-2. 💪 Opened PR [#2](https://github.com/AlexisL61/RPC_Express/pull/2) in [AlexisL61/RPC_Express](https://github.com/AlexisL61/RPC_Express)
-3. 💪 Opened PR [#4312](https://github.com/ente-io/ente/pull/4312) in [ente-io/ente](https://github.com/ente-io/ente)
-4. ❗ Opened issue [#4311](https://github.com/ente-io/ente/issues/4311) in [ente-io/ente](https://github.com/ente-io/ente)
-5. 🎉 Merged PR [#433](https://github.com/JackboxUtility/JackboxUtility/pull/433) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+1. 🎉 Merged PR [#36](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/36) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+2. 🎉 Merged PR [#2](https://github.com/AlexisL61/RPC_Express/pull/2) in [AlexisL61/RPC_Express](https://github.com/AlexisL61/RPC_Express)
+3. 💪 Opened PR [#2](https://github.com/AlexisL61/RPC_Express/pull/2) in [AlexisL61/RPC_Express](https://github.com/AlexisL61/RPC_Express)
+4. 💪 Opened PR [#4312](https://github.com/ente-io/ente/pull/4312) in [ente-io/ente](https://github.com/ente-io/ente)
+5. ❗ Opened issue [#4311](https://github.com/ente-io/ente/issues/4311) in [ente-io/ente](https://github.com/ente-io/ente)
 <!--END_SECTION:activity-->
