@@ -74,9 +74,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/AlexisL61/FlutterTemplate/pull/1) in [AlexisL61/FlutterTemplate](https://github.com/AlexisL61/FlutterTemplate)
-2. 🗣 Commented on [#1674](https://github.com/flutter-webrtc/flutter-webrtc/issues/1674#issuecomment-2577990944) in [flutter-webrtc/flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc)
-3. 🎉 Merged PR [#37](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/37) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-4. 🎉 Merged PR [#36](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/36) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
-5. 🎉 Merged PR [#2](https://github.com/AlexisL61/RPC_Express/pull/2) in [AlexisL61/RPC_Express](https://github.com/AlexisL61/RPC_Express)
+1. 🎉 Merged PR [#2](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French/pull/2) in [Jackbox-France/The-Jackbox-Party-Pack-2-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French)
+2. 🎉 Merged PR [#1](https://github.com/AlexisL61/FlutterTemplate/pull/1) in [AlexisL61/FlutterTemplate](https://github.com/AlexisL61/FlutterTemplate)
+3. 🗣 Commented on [#1674](https://github.com/flutter-webrtc/flutter-webrtc/issues/1674#issuecomment-2577990944) in [flutter-webrtc/flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc)
+4. 🎉 Merged PR [#37](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/37) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+5. 🎉 Merged PR [#36](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/pull/36) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
 <!--END_SECTION:activity-->
