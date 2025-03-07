@@ -80,5 +80,3 @@
 4. 🎉 Merged PR [#2](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French/pull/2) in [Jackbox-France/The-Jackbox-Party-Pack-2-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French)
 5. 🎉 Merged PR [#1](https://github.com/AlexisL61/FlutterTemplate/pull/1) in [AlexisL61/FlutterTemplate](https://github.com/AlexisL61/FlutterTemplate)
 <!--END_SECTION:activity-->
-
-<img src="https://wakapi.alexisl.fr/api/activity/chart/AlexisL.svg"/>
