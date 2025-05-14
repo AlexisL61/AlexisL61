@@ -74,7 +74,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#24](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/issues/24#issuecomment-2778636361) in [Jackbox-France/The-Jackbox-Party-Pack-8-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+1. ❗ Opened issue [#60418](https://github.com/symfony/symfony/issues/60418) in [symfony/symfony](https://github.com/symfony/symfony)
 2. 💪 Opened PR [#5](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-6-French/pull/5) in [Jackbox-France/The-Jackbox-Party-Pack-6-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-6-French)
 3. 🎉 Merged PR [#4](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-6-French/pull/4) in [Jackbox-France/The-Jackbox-Party-Pack-6-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-6-French)
 4. 🎉 Merged PR [#2](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French/pull/2) in [Jackbox-France/The-Jackbox-Party-Pack-2-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French)
