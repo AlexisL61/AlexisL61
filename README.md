@@ -74,9 +74,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#60418](https://github.com/symfony/symfony/issues/60418#issuecomment-2936354684) in [symfony/symfony](https://github.com/symfony/symfony)
-2. ❗ Opened issue [#60418](https://github.com/symfony/symfony/issues/60418) in [symfony/symfony](https://github.com/symfony/symfony)
-3. 🎉 Merged PR [#4](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-6-French/pull/4) in [Jackbox-France/The-Jackbox-Party-Pack-6-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-6-French)
-4. 🎉 Merged PR [#2](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French/pull/2) in [Jackbox-France/The-Jackbox-Party-Pack-2-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French)
+1. 🗣 Commented on [#60418](https://github.com/symfony/symfony/issues/60418#issuecomment-2939015526) in [symfony/symfony](https://github.com/symfony/symfony)
+2. 🔒 Closed issue [#60418](https://github.com/symfony/symfony/issues/60418) in [symfony/symfony](https://github.com/symfony/symfony)
+3. 🗣 Commented on [#60418](https://github.com/symfony/symfony/issues/60418#issuecomment-2936354684) in [symfony/symfony](https://github.com/symfony/symfony)
+4. ❗ Opened issue [#60418](https://github.com/symfony/symfony/issues/60418) in [symfony/symfony](https://github.com/symfony/symfony)
 5. 🎉 Merged PR [#1](https://github.com/AlexisL61/FlutterTemplate/pull/1) in [AlexisL61/FlutterTemplate](https://github.com/AlexisL61/FlutterTemplate)
 <!--END_SECTION:activity-->
