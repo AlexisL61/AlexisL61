@@ -74,9 +74,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#60418](https://github.com/symfony/symfony/issues/60418#issuecomment-2939015526) in [symfony/symfony](https://github.com/symfony/symfony)
-2. 🔒 Closed issue [#60418](https://github.com/symfony/symfony/issues/60418) in [symfony/symfony](https://github.com/symfony/symfony)
-3. 🗣 Commented on [#60418](https://github.com/symfony/symfony/issues/60418#issuecomment-2936354684) in [symfony/symfony](https://github.com/symfony/symfony)
-4. ❗ Opened issue [#60418](https://github.com/symfony/symfony/issues/60418) in [symfony/symfony](https://github.com/symfony/symfony)
-5. 🎉 Merged PR [#1](https://github.com/AlexisL61/FlutterTemplate/pull/1) in [AlexisL61/FlutterTemplate](https://github.com/AlexisL61/FlutterTemplate)
+1. 🎉 Merged PR [#2](https://github.com/AlexisL61/FlutterTemplate/pull/2) in [AlexisL61/FlutterTemplate](https://github.com/AlexisL61/FlutterTemplate)
+2. 🗣 Commented on [#60418](https://github.com/symfony/symfony/issues/60418#issuecomment-2939015526) in [symfony/symfony](https://github.com/symfony/symfony)
+3. 🔒 Closed issue [#60418](https://github.com/symfony/symfony/issues/60418) in [symfony/symfony](https://github.com/symfony/symfony)
+4. 🗣 Commented on [#60418](https://github.com/symfony/symfony/issues/60418#issuecomment-2936354684) in [symfony/symfony](https://github.com/symfony/symfony)
+5. ❗ Opened issue [#60418](https://github.com/symfony/symfony/issues/60418) in [symfony/symfony](https://github.com/symfony/symfony)
 <!--END_SECTION:activity-->
