@@ -74,8 +74,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/AlexisL61/FlutterTemplate/pull/2) in [AlexisL61/FlutterTemplate](https://github.com/AlexisL61/FlutterTemplate)
-2. 🗣 Commented on [#60418](https://github.com/symfony/symfony/issues/60418#issuecomment-2939015526) in [symfony/symfony](https://github.com/symfony/symfony)
+1. 🎉 Merged PR [#434](https://github.com/JackboxUtility/JackboxUtility/pull/434) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+2. 🎉 Merged PR [#438](https://github.com/JackboxUtility/JackboxUtility/pull/438) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
 3. 🔒 Closed issue [#60418](https://github.com/symfony/symfony/issues/60418) in [symfony/symfony](https://github.com/symfony/symfony)
 4. 🗣 Commented on [#60418](https://github.com/symfony/symfony/issues/60418#issuecomment-2936354684) in [symfony/symfony](https://github.com/symfony/symfony)
 5. ❗ Opened issue [#60418](https://github.com/symfony/symfony/issues/60418) in [symfony/symfony](https://github.com/symfony/symfony)
