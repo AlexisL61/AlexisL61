@@ -74,9 +74,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#18](undefined) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
-2.  Labeled issue [#15](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/issues/15) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
-3.  Labeled issue [#15](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/issues/15) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
-4. ❗ Opened issue [#15](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/issues/15) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
-5.  Labeled issue [#14](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/issues/14) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
+1.  Labeled issue [#20](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/issues/20) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
+2. 🗣 Commented on [#20](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/issues/20#issuecomment-3467714807) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
+3. 💪 Opened PR [#18](undefined) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
+4.  Labeled issue [#15](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/issues/15) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
+5.  Labeled issue [#15](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/issues/15) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
 <!--END_SECTION:activity-->
