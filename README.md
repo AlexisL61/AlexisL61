@@ -65,8 +65,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=alexisl61&label=Profile%20views&color=3B9086&style=flat" alt="alexisl61"/>
 <p>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alexisl61&show_icons=true&theme=dark&locale=en&bg_color=3B9086&text_color=FFFFFF&icon_color=FFFFFF" alt="alexisl61" /></p>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexisL&api_domain=wakapi.alexisl.fr&bg_color=3B9086&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&custom_title=Languages%20used%20last%20week&layout=compact"></p>
+    <p><img align="left" src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/profile/stats.svg" alt="alexisl61" /></p>
+    <p><img align="center" src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/profile/wakapi.svg"></p>
 </br>
 </p>
 
