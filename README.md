@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/profile_title.svg">
+<img src="https://raw.githubusercontent.com/AlexisL61/AlexisL61/refs/heads/main/assets/profile_title.png">
 
 <h2>Projects</h2>
 
