@@ -31,8 +31,8 @@ jobs:
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
-          options: /wakatime?username=AlexisL&api_domain=wakapi.alexisl.fr&bg_color=3B9086&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&custom_title=Languages%20used%20last%20week&layout=compact
+          card: wakatime
+          options: username=AlexisL&api_domain=wakapi.alexisl.fr&bg_color=3B9086&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&custom_title=Languages%20used%20last%20week&layout=compact
           path: profile/wakapi.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
