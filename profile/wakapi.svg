@@ -161,7 +161,7 @@
             y="0"
             width="17.4375"
             height="8"
-            fill="#b07219"
+            fill="#083fa1"
           />
         
           <rect
@@ -171,7 +171,7 @@
             y="0"
             width="17.4375"
             height="8"
-            fill="#083fa1"
+            fill="#b07219"
           />
         
           <rect
@@ -287,16 +287,16 @@
     </g>
   
     <g transform="translate(230, 50)">
-      <circle cx="5" cy="6" r="5" fill="#b07219" />
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java - 1 hrs 5 mins
+        Markdown - 1 hrs 5 mins
       </text>
     </g>
   
     <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 1 hrs 5 mins
+        Java - 1 hrs 5 mins
       </text>
     </g>
   
