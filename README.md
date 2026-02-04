@@ -74,7 +74,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#39](undefined) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
+1. ℹ️ Assigned PR [#40](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/pull/40) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
 2. 💪 Opened PR [#39](undefined) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
 3. ❌ Merged PR [#35](undefined) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
 4. 💪 Opened PR [#35](undefined) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
