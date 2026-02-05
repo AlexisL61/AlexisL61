@@ -201,7 +201,7 @@
             y="0"
             width="1.6740000000000002"
             height="8"
-            fill="#858585"
+            fill="#178600"
           />
         
           <rect
@@ -211,7 +211,7 @@
             y="0"
             width="1.6740000000000002"
             height="8"
-            fill="#178600"
+            fill="#858585"
           />
         
           <rect
@@ -315,16 +315,16 @@
     </g>
   
     <g transform="translate(230, 100)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Plain_text - 0 hrs 6 mins
+        C# - 0 hrs 6 mins
       </text>
     </g>
   
     <g transform="translate(25, 125)">
-      <circle cx="5" cy="6" r="5" fill="#178600" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 0 hrs 6 mins
+        Plain_text - 0 hrs 6 mins
       </text>
     </g>
   
