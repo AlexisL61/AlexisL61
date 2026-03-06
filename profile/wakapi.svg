@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="149.59050000000002"
+            width="149.54399999999998"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="149.59050000000002"
+            x="149.54399999999998"
             y="0"
-            width="91.79099999999998"
+            width="91.88400000000001"
             height="8"
             fill="#A97BFF"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="241.38150000000002"
+            x="241.428"
             y="0"
-            width="55.5675"
+            width="55.520999999999994"
             height="8"
             fill="#083fa1"
           />
@@ -335,7 +335,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 5 hrs 10 mins
+        Kotlin - 5 hrs 11 mins
       </text>
     </g>
   
