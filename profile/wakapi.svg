@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="350.74950000000007"
+            width="351.2610000000001"
             height="8"
             fill="#A97BFF"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="350.74950000000007"
+            x="351.2610000000001"
             y="0"
-            width="56.311499999999995"
+            width="56.404500000000006"
             height="8"
             fill="#00B4AB"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="407.06100000000004"
+            x="407.66550000000007"
             y="0"
-            width="19.669500000000003"
+            width="19.716"
             height="8"
             fill="#b07219"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="426.73050000000006"
+            x="427.3815000000001"
             y="0"
-            width="13.159500000000001"
+            width="12.5085"
             height="8"
             fill="#858585"
           />
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="439.89000000000004"
+            x="439.8900000000001"
             y="0"
             width="9.392999999999999"
             height="8"
@@ -177,7 +177,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="449.283"
+            x="449.2830000000001"
             y="0"
             width="3.72"
             height="8"
@@ -187,7 +187,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="453.00300000000004"
+            x="453.0030000000001"
             y="0"
             width="3.255"
             height="8"
@@ -197,7 +197,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="456.25800000000004"
+            x="456.2580000000001"
             y="0"
             width="2.6040000000000005"
             height="8"
@@ -207,7 +207,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="458.862"
+            x="458.8620000000001"
             y="0"
             width="1.5810000000000002"
             height="8"
@@ -217,7 +217,17 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="460.44300000000004"
+            x="460.4430000000001"
+            y="0"
+            width="1.5810000000000002"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="462.0240000000001"
             y="0"
             width="1.5345000000000002"
             height="8"
@@ -227,17 +237,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="461.9775"
-            y="0"
-            width="1.4880000000000002"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="463.4655"
+            x="463.5585000000001"
             y="0"
             width="0.9764999999999999"
             height="8"
@@ -247,7 +247,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="464.442"
+            x="464.5350000000001"
             y="0"
             width="0.32550000000000007"
             height="8"
@@ -279,7 +279,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Typescript - 0 hrs 42 mins
+        Typescript - 0 hrs 40 mins
       </text>
     </g>
   
