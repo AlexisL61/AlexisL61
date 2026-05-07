@@ -129,17 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="231.29100000000003"
-            height="8"
-            fill="#A97BFF"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="231.29100000000003"
-            y="0"
-            width="191.85899999999998"
+            width="223.4325"
             height="8"
             fill="#0060ac"
           />
@@ -147,19 +137,19 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="423.15"
+            x="223.4325"
             y="0"
-            width="12.5085"
+            width="219.015"
             height="8"
-            fill="#858585"
+            fill="#A97BFF"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="435.6585"
+            x="442.4475"
             y="0"
-            width="10.9275"
+            width="10.648499999999999"
             height="8"
             fill="#b07219"
           />
@@ -167,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="446.586"
+            x="453.096"
             y="0"
-            width="9.579"
+            width="3.534"
             height="8"
             fill="#858585"
           />
@@ -177,63 +167,73 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="456.165"
+            x="456.63"
             y="0"
-            width="5.6265"
+            width="2.6504999999999996"
             height="8"
-            fill="#083fa1"
+            fill="#858585"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="461.79150000000004"
+            x="459.2805"
             y="0"
-            width="1.5345000000000002"
+            width="2.4645"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="461.745"
+            y="0"
+            width="1.4880000000000002"
             height="8"
             fill="#858585"
           />
         
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#A97BFF" />
+      <circle cx="5" cy="6" r="5" fill="#0060ac" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 5 hrs 47 mins
+        XML - 5 hrs 43 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#0060ac" />
+      <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        XML - 4 hrs 47 mins
+        Kotlin - 5 hrs 36 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Textmate - 0 hrs 19 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Java - 0 hrs 16 mins
       </text>
     </g>
   
+    <g transform="translate(230, 50)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Unknown - 0 hrs 5 mins
+      </text>
+    </g>
+  
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Unknown - 0 hrs 14 mins
+        Json - 0 hrs 4 mins
       </text>
     </g>
   
     <g transform="translate(230, 75)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 0 hrs 8 mins
+        Textmate - 0 hrs 4 mins
       </text>
     </g>
   
