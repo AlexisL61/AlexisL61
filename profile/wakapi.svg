@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="209.34300000000002"
+            width="194.3235"
             height="8"
             fill="#A97BFF"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="209.34300000000002"
+            x="194.3235"
             y="0"
-            width="123.4575"
+            width="113.83200000000001"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="332.8005"
+            x="308.1555"
             y="0"
-            width="49.708499999999994"
+            width="80.817"
             height="8"
             fill="#083fa1"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="382.509"
+            x="388.9725"
             y="0"
-            width="43.059"
+            width="39.71099999999999"
             height="8"
             fill="#00B4AB"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="425.568"
+            x="428.68350000000004"
             y="0"
-            width="20.646000000000004"
+            width="19.064999999999998"
             height="8"
             fill="#0060ac"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="446.214"
+            x="447.74850000000004"
             y="0"
-            width="6.2775"
+            width="5.8125"
             height="8"
             fill="#858585"
           />
@@ -187,9 +187,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="452.4915"
+            x="453.56100000000004"
             y="0"
-            width="4.092"
+            width="3.7665"
             height="8"
             fill="#b07219"
           />
@@ -197,17 +197,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="456.58349999999996"
-            y="0"
-            width="2.883"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="459.46649999999994"
+            x="457.32750000000004"
             y="0"
             width="2.6504999999999996"
             height="8"
@@ -217,9 +207,19 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="462.11699999999996"
+            x="459.97800000000007"
             y="0"
             width="2.4645"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="462.44250000000005"
+            y="0"
+            width="2.2784999999999997"
             height="8"
             fill="#cb171e"
           />
@@ -227,9 +227,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="464.58149999999995"
+            x="464.72100000000006"
             y="0"
-            width="0.37200000000000005"
+            width="0.32550000000000007"
             height="8"
             fill="#858585"
           />
@@ -238,7 +238,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 15 hrs 33 mins
+        Kotlin - 15 hrs 40 mins
       </text>
     </g>
   
@@ -252,7 +252,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 3 hrs 42 mins
+        Markdown - 6 hrs 31 mins
       </text>
     </g>
   
