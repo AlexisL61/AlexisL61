@@ -74,7 +74,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#6263](https://github.com/bigcode-project/opt-out-v2/issues/6263) in [bigcode-project/opt-out-v2](https://github.com/bigcode-project/opt-out-v2)
+1. 💪 Opened PR [#466](https://github.com/JackboxUtility/JackboxUtility/pull/466) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
 2. 💪 Opened PR [#39](undefined) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
 3. ❌ Merged PR [#35](undefined) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
 4. 💪 Opened PR [#35](undefined) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
