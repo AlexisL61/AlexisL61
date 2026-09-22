@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="261.1905"
+            width="302.25"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="261.1905"
+            x="302.25"
             y="0"
-            width="115.0875"
+            width="56.544"
             height="8"
             fill="#083fa1"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="376.278"
+            x="358.794"
             y="0"
-            width="45.8025"
+            width="54.5445"
             height="8"
             fill="#A97BFF"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="422.08050000000003"
+            x="413.33849999999995"
             y="0"
-            width="17.855999999999998"
+            width="20.5995"
             height="8"
             fill="#858585"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="439.9365"
+            x="433.93799999999993"
             y="0"
-            width="12.741000000000001"
+            width="14.694"
             height="8"
             fill="#0060ac"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="452.6775"
+            x="448.63199999999995"
             y="0"
-            width="9.2535"
+            width="12.4155"
             height="8"
             fill="#858585"
           />
@@ -187,9 +187,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="461.931"
+            x="461.04749999999996"
             y="0"
-            width="1.3485"
+            width="1.5345000000000002"
             height="8"
             fill="#b07219"
           />
@@ -197,9 +197,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="463.2795"
+            x="462.58199999999994"
             y="0"
-            width="1.3020000000000003"
+            width="1.4880000000000002"
             height="8"
             fill="#858585"
           />
@@ -207,9 +207,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="464.5815"
+            x="464.06999999999994"
             y="0"
-            width="0.41850000000000004"
+            width="0.7905000000000001"
             height="8"
             fill="#3572A5"
           />
@@ -218,21 +218,21 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Unknown - 11 hrs 46 mins
+        Unknown - 11 hrs 48 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 5 hrs 11 mins
+        Markdown - 2 hrs 12 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 2 hrs 4 mins
+        Kotlin - 2 hrs 8 mins
       </text>
     </g>
   
@@ -253,7 +253,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Json - 0 hrs 25 mins
+        Json - 0 hrs 29 mins
       </text>
     </g>
   
@@ -274,7 +274,7 @@
     <g transform="translate(25, 125)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 0 hrs 1 mins
+        Python - 0 hrs 2 mins
       </text>
     </g>
   
