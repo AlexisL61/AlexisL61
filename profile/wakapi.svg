@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="253.053"
+            width="246.8685"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="253.053"
+            x="246.8685"
             y="0"
-            width="104.8575"
+            width="102.7185"
             height="8"
             fill="#A97BFF"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="357.9105"
+            x="349.587"
             y="0"
-            width="69.843"
+            width="78.8175"
             height="8"
             fill="#083fa1"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="427.75350000000003"
+            x="428.4045"
             y="0"
-            width="11.671499999999998"
+            width="11.3925"
             height="8"
             fill="#858585"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="439.425"
+            x="439.79699999999997"
             y="0"
-            width="9.625499999999999"
+            width="9.439499999999999"
             height="8"
             fill="#858585"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="449.0505"
+            x="449.2365"
             y="0"
-            width="8.091000000000001"
+            width="7.905"
             height="8"
             fill="#0060ac"
           />
@@ -187,9 +187,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="457.1415"
+            x="457.14149999999995"
             y="0"
-            width="2.7434999999999996"
+            width="2.697"
             height="8"
             fill="#858585"
           />
@@ -197,11 +197,11 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="459.885"
+            x="459.83849999999995"
             y="0"
-            width="2.1854999999999998"
+            width="2.2319999999999998"
             height="8"
-            fill="#858585"
+            fill="#b07219"
           />
         
           <rect
@@ -211,7 +211,7 @@
             y="0"
             width="2.1390000000000002"
             height="8"
-            fill="#b07219"
+            fill="#858585"
           />
         
           <rect
@@ -238,21 +238,21 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Unknown - 20 hrs 12 mins
+        Unknown - 20 hrs 9 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 8 hrs 22 mins
+        Kotlin - 8 hrs 23 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 5 hrs 35 mins
+        Markdown - 6 hrs 26 mins
       </text>
     </g>
   
@@ -285,16 +285,16 @@
     </g>
   
     <g transform="translate(230, 100)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Diff - 0 hrs 10 mins
+        Java - 0 hrs 11 mins
       </text>
     </g>
   
     <g transform="translate(25, 125)">
-      <circle cx="5" cy="6" r="5" fill="#b07219" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java - 0 hrs 10 mins
+        Diff - 0 hrs 10 mins
       </text>
     </g>
   
