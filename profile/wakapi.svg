@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="197.20649999999998"
+            width="196.97400000000002"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="197.20649999999998"
+            x="196.97400000000002"
             y="0"
-            width="104.346"
+            width="103.97399999999999"
             height="8"
             fill="#083fa1"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="301.5525"
+            x="300.948"
             y="0"
-            width="97.37100000000001"
+            width="97.9755"
             height="8"
             fill="#A97BFF"
           />
@@ -159,7 +159,7 @@
             data-testid="lang-progress"
             x="398.9235"
             y="0"
-            width="40.176"
+            width="40.1295"
             height="8"
             fill="#858585"
           />
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="439.0995"
+            x="439.053"
             y="0"
             width="8.091000000000001"
             height="8"
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="447.1905"
+            x="447.144"
             y="0"
-            width="6.370500000000001"
+            width="6.416999999999999"
             height="8"
             fill="#0060ac"
           />
@@ -265,14 +265,14 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 8 hrs 38 mins
+        Markdown - 8 hrs 37 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 8 hrs 3 mins
+        Kotlin - 8 hrs 7 mins
       </text>
     </g>
   
