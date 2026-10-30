@@ -241,7 +241,7 @@
             y="0"
             width="2.1390000000000002"
             height="8"
-            fill="#0060ac"
+            fill="#858585"
           />
         
           <rect
@@ -251,7 +251,7 @@
             y="0"
             width="2.1390000000000002"
             height="8"
-            fill="#858585"
+            fill="#0060ac"
           />
         
           <rect
@@ -343,16 +343,16 @@
     </g>
   
     <g transform="translate(230, 150)">
-      <circle cx="5" cy="6" r="5" fill="#0060ac" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        XML - 0 hrs 6 mins
+        Json - 0 hrs 6 mins
       </text>
     </g>
   
     <g transform="translate(25, 175)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#0060ac" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Json - 0 hrs 6 mins
+        XML - 0 hrs 6 mins
       </text>
     </g>
   
