@@ -74,9 +74,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#42](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/pull/42#issuecomment-5992683038) in [Jackbox-France/The-Jackbox-Party-Pack-11-French](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
-2. 🎉 Merged PR [#468](https://github.com/JackboxUtility/JackboxUtility/pull/468) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-3. 💪 Opened PR [#468](https://github.com/JackboxUtility/JackboxUtility/pull/468) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-4. 🎉 Merged PR [#466](https://github.com/JackboxUtility/JackboxUtility/pull/466) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-5. 💪 Opened PR [#466](https://github.com/JackboxUtility/JackboxUtility/pull/466) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
+1. ❗ Opened issue [#3](https://github.com/Jackbox-France/Dodoremi-Archipelago/issues/3) in [Jackbox-France/Dodoremi-Archipelago](https://github.com/Jackbox-France/Dodoremi-Archipelago)
+2. ℹ️ Labeled issue [#3](https://github.com/Jackbox-France/Dodoremi-Archipelago/issues/3) in [Jackbox-France/Dodoremi-Archipelago](https://github.com/Jackbox-France/Dodoremi-Archipelago)
+3. ℹ️ Labeled issue [#2](https://github.com/Jackbox-France/Dodoremi-Archipelago/issues/2) in [Jackbox-France/Dodoremi-Archipelago](https://github.com/Jackbox-France/Dodoremi-Archipelago)
+4. ❗ Opened issue [#2](https://github.com/Jackbox-France/Dodoremi-Archipelago/issues/2) in [Jackbox-France/Dodoremi-Archipelago](https://github.com/Jackbox-France/Dodoremi-Archipelago)
+5. ℹ️ Labeled issue [#1](https://github.com/Jackbox-France/Dodoremi-Archipelago/issues/1) in [Jackbox-France/Dodoremi-Archipelago](https://github.com/Jackbox-France/Dodoremi-Archipelago)
 <!--END_SECTION:activity-->
