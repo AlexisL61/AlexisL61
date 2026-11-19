@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="255.75"
+            width="249.51899999999998"
             height="8"
             fill="#083fa1"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="255.75"
+            x="249.51899999999998"
             y="0"
-            width="91.04699999999998"
+            width="94.8135"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="346.79699999999997"
+            x="344.3325"
             y="0"
-            width="39.617999999999995"
+            width="41.24549999999999"
             height="8"
             fill="#A97BFF"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="386.41499999999996"
+            x="385.578"
             y="0"
-            width="33.6195"
+            width="35.014500000000005"
             height="8"
             fill="#858585"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="420.0345"
+            x="420.5925"
             y="0"
-            width="27.807000000000002"
+            width="28.923"
             height="8"
             fill="#3572A5"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="447.8415"
+            x="449.5155"
             y="0"
-            width="9.3"
+            width="9.672"
             height="8"
             fill="#858585"
           />
@@ -187,9 +187,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="457.1415"
+            x="459.1875"
             y="0"
-            width="3.1155"
+            width="3.255"
             height="8"
             fill="#b07219"
           />
@@ -197,19 +197,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="460.257"
+            x="462.4425"
             y="0"
-            width="3.0225"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="463.2795"
-            y="0"
-            width="0.8370000000000001"
+            width="0.8835"
             height="8"
             fill="#cb171e"
           />
@@ -217,7 +207,17 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="464.1165"
+            x="463.326"
+            y="0"
+            width="0.7905000000000001"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="464.11650000000003"
             y="0"
             width="0.5579999999999999"
             height="8"
@@ -228,7 +228,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 10 hrs 58 mins
+        Markdown - 10 hrs 17 mins
       </text>
     </g>
   
@@ -275,16 +275,16 @@
     </g>
   
     <g transform="translate(230, 100)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Javascript - 0 hrs 8 mins
+        YAML - 0 hrs 2 mins
       </text>
     </g>
   
     <g transform="translate(25, 125)">
-      <circle cx="5" cy="6" r="5" fill="#cb171e" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 0 hrs 2 mins
+        Javascript - 0 hrs 2 mins
       </text>
     </g>
   
